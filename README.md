@@ -13,3 +13,4 @@ I have a strong interest in research and data that extend beyond my work into pe
 ##### R/Shiny Apps
 
 - [Cycling Power Zone Calculator](https://griffindatasci.shinyapps.io/ftp_power_zones/)
+- [Split Times Generator](https://griffindatasci.shinyapps.io/cycling_splits/)
