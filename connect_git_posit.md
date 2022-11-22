@@ -11,9 +11,9 @@ These are the notes I took while reading and working through the excellent guide
 ### Connecting and Testing Git & GitHub
 
 1. Open Posit, and in the terminal, execute:
-  - `git config --global user.email '<email@address.here>'` in the terminal to set your user email
-  - `git config --global user.name '<username here>'` in the terminal to set your user name
-  - `git config --global init.defaultBranch main` in the terminal to set default initial branch to main (not master)
+  - `git config --global user.email '<email@address.here>'` to set your user email
+  - `git config --global user.name '<username here>'` to set your user name
+  - `git config --global init.defaultBranch main` to set default initial branch to main (not master)
 1. Open GitHub in your browser and create a repository (repo)
 1. Click the green code button and copy the https url
 1. In the Posit terminal, use `cd` to navigate to the directory that will contain the GitHub repo on your local machine (use `cd ..` to navigate up a directory and `ls` to see contents of a directory)
