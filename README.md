@@ -14,3 +14,7 @@ I have a strong interest in research and data that extend beyond my work into pe
 
 - [Cycling Power Zone Calculator](https://griffindatasci.shinyapps.io/ftp_power_zones/)
 - [Split Times Generator](https://griffindatasci.shinyapps.io/cycling_splits/)
+
+
+##### Notes
+- [Quick guide to connecting and using RStudio/Posit with GitHub](https://github.com/griffindatasci/griffindatasci/blob/main/connect_git_posit.md)
