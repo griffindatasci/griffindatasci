@@ -14,7 +14,7 @@
   - `git config --global user.name '<username here>'` in the terminal to set your user name
   - `git config --global init.defaultBranch main` in the terminal to set default initial branch to main (not master)
 3. Open GitHub in your browser and create a repository (repo)
-4. Click the green <code> button and copy the https url
+4. Click the green code button and copy the https url
 5. In the Posit terminal, use `cd` to navigate to the directory that will contain the GitHub repo on your local machine (use `cd ..` to navigate up a directory and `ls` to see contents of a directory)
 6. In the Posit terminal, clone the repo using `git clone <url>`
 7. In the Posit terminal, `cd` into that repo
