@@ -1,6 +1,6 @@
 # Short notes on Git, GitHub and RStudio/Posit
 
-These are the notes I took while reading and working through the excellent guide [Let's Git Started](https://happygitwithr.com/index.html). I made these notes as a quick reference for myself, but they should be detailed enough that &mdash; with luck &mdash; they are useful to others (so _i_'ve put them in a public repo). I very much recommend reading the Let's Git Started guide too and checking there if you encounter any issues!
+These are the notes I took while reading and working through the excellent guide [Let's Git Started](https://happygitwithr.com/index.html). I made these notes as a quick reference for myself, but they should be detailed enough that &mdash; with luck &mdash; they are useful to others (so I've put them in a public repo). I very much recommend reading the Let's Git Started guide too and checking there if you encounter any issues!
 
 ### Prerequisites
 
