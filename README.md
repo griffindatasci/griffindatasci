@@ -12,6 +12,7 @@ I have a strong interest in research and data that extend beyond my work into pe
 
 ##### R/Shiny Apps
 
+- [Zwift Speed Test Data Viewer](https://griffindatasci.shinyapps.io/zwift_speed_data/)
 - [Cycling Power Zone Calculator](https://griffindatasci.shinyapps.io/ftp_power_zones/)
 - [Split Times Generator](https://griffindatasci.shinyapps.io/cycling_splits/)
 
