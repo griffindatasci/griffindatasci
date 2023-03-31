@@ -17,6 +17,7 @@ My interests in research and data that extend beyond my work into personal setti
 
 - [Zwift Speed Test Data Viewer](https://griffindatasci.shinyapps.io/zwift_speed_data/)
 - [Cycling Power Zone Calculator](https://griffindatasci.shinyapps.io/ftp_power_zones/)
+- [Zwift Racing Category Calculator](https://griffindatasci.shinyapps.io/zwift_ce/)
 - [Split Times Generator](https://griffindatasci.shinyapps.io/cycling_splits/)
 
 
