@@ -1,6 +1,6 @@
 ## Looking for work!
 
-I am now **actively job searching** for roles in **data science or programming** more generally. I have extensive experience in statistical analysis and statistical programming in **R and SAS**, and taking research projects from design and implementation through to analysis and communication, but love learning new technical skills &mdash; I have recently taken courses in my free time on **Python, SQL, Java and Kotlin**! My ideal role would encourage the pursuit of innovative solutions through **critical thinking and creativity**, an ability to simplify complexity, and provide the opportunity for development and learning &mdash; **I'm more than happy to try my hand in a new area of programming**! 
+I am now **actively job searching** for roles in **data science, data engineering or programming** more generally. I have extensive experience in statistical analysis and statistical programming in **R, SQL and SAS**, and taking research projects from design and implementation through to analysis and communication, but love improving and adding new technical skills &mdash; I have recently taken courses in my free time on **Python, SQL, Java and Kotlin** programming and tools including **PowerBI and Databricks**! My ideal role would encourage the pursuit of innovative solutions through **critical thinking and creativity**, an ability to simplify complexity, and provide the opportunity for development and learning &mdash; **I'm more than happy to try my hand in a new area of programming**! 
 
 
 ## Rob Griffin
