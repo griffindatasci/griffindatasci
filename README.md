@@ -23,3 +23,22 @@ My interests in research and data that extend beyond my work into personal setti
 
 ##### Notes
 - [Quick guide to connecting and using RStudio/Posit with GitHub](https://github.com/griffindatasci/griffindatasci/blob/main/connect_git_posit.md)
+
+
+### Education
+
+- **PhD, Evolutionary Quantitative Genetics**, Uppsala University (SWE), 2015
+- **MSc, Evolutionary and Behavioural Ecology**, University of Exeter (GBR), 2011
+- **BSc, Conservation Biology and Ecology**, University of Exeter (GBR), 2010
+
+
+### Employment History
+
+- **Statistical Programmer**, AstraZeneca (SWE), Sept. 2020 - Present
+- **Visiting Academic**, University of Queensland (AUS), Jan. 2019 - Aug. 2020
+- **Postdoctoral Research Fellow**, Uppsala University (SWE), Sept. 2018 - Sept. 2020
+- **Postdoctoral Researcher**, University of Turku (FIN), Mar. 2016 - Sept. 2018
+- **PhD Candidate**, Uppsala University (SWE), Sept. 2011 - Sept. 2015
+- **Assistant Manager**, Falmouth Townhouse Hotel & Bar (GBR), Nov. 2010 - Aug. 2011
+- **Voluntary Research Assistant**, University of Exeter (GBR), Feb. 2009 - Aug. 2011
+- **Supervisor**, Harbour View Restaurant (GBR), July 2008 - Oct. 2010
