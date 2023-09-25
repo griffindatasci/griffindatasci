@@ -1,6 +1,4 @@
-## Looking for work!
 
-I am now **actively job searching** for roles in **data science, data engineering or programming** more generally. I have extensive experience in statistical analysis and statistical programming in **R, SQL and SAS**, and taking research projects from design and implementation through to analysis and communication, but love improving and adding new technical skills &mdash; I have recently taken courses in my free time on **Python, SQL, Java and Kotlin** programming and tools including **PowerBI and Databricks**! My ideal role would encourage the pursuit of innovative solutions through **critical thinking and creativity**, an ability to simplify complexity, and provide the opportunity for development and learning &mdash; **I'm more than happy to try my hand in a new area of programming and related fields**! 
 
 
 ## Rob Griffin
@@ -34,7 +32,8 @@ My interests in research and data that extend beyond my work into personal setti
 
 ### Employment History
 
-- **Statistical Programmer**, AstraZeneca (SWE), Sept. 2020 - Present
+- **Data Engineer**, Knowit Solutions CoCreate (SWE), Oct. 2023 - Present
+- **Statistical Programmer**, AstraZeneca (SWE), Sept. 2020 - Sept. 2023
 - **Visiting Academic**, University of Queensland (AUS), Jan. 2019 - Aug. 2020
 - **Postdoctoral Research Fellow**, Uppsala University (SWE), Sept. 2018 - Sept. 2020
 - **Postdoctoral Researcher**, University of Turku (FIN), Mar. 2016 - Sept. 2018
